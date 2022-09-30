@@ -1,5 +1,5 @@
 package devops;
 
-public interface arthrmatic {
+public class arthrmatic {
 
 }
